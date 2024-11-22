@@ -1,0 +1,1 @@
+alert_frame_window = "//h5[contains(text(),'Alerts')]/ancestor::div[contains(@class,'top-card')]"
